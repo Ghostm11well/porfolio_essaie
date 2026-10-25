@@ -1,0 +1,8 @@
+# Fichiers locaux de travail et captures de contrôle
+.qa/
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Copie de travail à la racine — le portrait final est dans assets/images/
+/WhatsApp Image*.jpeg
